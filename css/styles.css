@@ -1,0 +1,22 @@
+.work {
+  color: pink;
+}
+.education {
+  color: green;
+}
+.skills {
+  color: blue;
+}
+.name {
+  font-weight: bold;
+}
+h3 {
+  font-style: italic;
+}
+.top {
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-weight: bold;
+}
